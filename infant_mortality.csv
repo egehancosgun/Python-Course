@@ -1,0 +1,541 @@
+,Date,Country,Infant Mortality (per 1000)
+0,2019,Afghanistan,46.5
+1,2018,Afghanistan,48.0
+2,2017,Afghanistan,49.6
+3,2016,Afghanistan,51.3
+4,2015,Afghanistan,53.2
+5,2014,Afghanistan,55.2
+6,2013,Afghanistan,57.2
+7,2012,Afghanistan,59.5
+8,2011,Afghanistan,61.7
+9,2010,Afghanistan,64.1
+10,2009,Afghanistan,66.5
+11,2008,Afghanistan,69.0
+12,2007,Afghanistan,71.7
+13,2006,Afghanistan,74.3
+14,2005,Afghanistan,77.0
+15,2004,Afghanistan,79.6
+16,2003,Afghanistan,82.3
+17,2002,Afghanistan,84.9
+18,2001,Afghanistan,87.6
+19,2000,Afghanistan,90.2
+20,2019,Burundi,39.9
+21,2018,Burundi,41.2
+22,2017,Burundi,42.6
+23,2016,Burundi,44.2
+24,2015,Burundi,45.9
+25,2014,Burundi,48.0
+26,2013,Burundi,50.4
+27,2012,Burundi,53.1
+28,2011,Burundi,56.0
+29,2010,Burundi,59.2
+30,2009,Burundi,62.6
+31,2008,Burundi,66.2
+32,2007,Burundi,70.0
+33,2006,Burundi,74.2
+34,2005,Burundi,78.2
+35,2004,Burundi,82.1
+36,2003,Burundi,85.6
+37,2002,Burundi,88.9
+38,2001,Burundi,92.0
+39,2000,Burundi,95.1
+40,2019,Burkina Faso,53.9
+41,2018,Burkina Faso,55.3
+42,2017,Burkina Faso,56.7
+43,2016,Burkina Faso,58.0
+44,2015,Burkina Faso,59.5
+45,2014,Burkina Faso,61.1
+46,2013,Burkina Faso,62.8
+47,2012,Burkina Faso,64.4
+48,2011,Burkina Faso,66.3
+49,2010,Burkina Faso,68.2
+50,2009,Burkina Faso,70.5
+51,2008,Burkina Faso,72.9
+52,2007,Burkina Faso,75.5
+53,2006,Burkina Faso,78.2
+54,2005,Burkina Faso,80.9
+55,2004,Burkina Faso,83.4
+56,2003,Burkina Faso,85.7
+57,2002,Burkina Faso,87.7
+58,2001,Burkina Faso,89.4
+59,2000,Burkina Faso,91.0
+60,2019,Central African Republic,81.0
+61,2018,Central African Republic,83.4
+62,2017,Central African Republic,85.5
+63,2016,Central African Republic,87.4
+64,2015,Central African Republic,89.7
+65,2014,Central African Republic,92.1
+66,2013,Central African Republic,94.6
+67,2012,Central African Republic,96.2
+68,2011,Central African Republic,98.2
+69,2010,Central African Republic,100.3
+70,2009,Central African Republic,101.9
+71,2008,Central African Republic,103.6
+72,2007,Central African Republic,104.9
+73,2006,Central African Republic,105.9
+74,2005,Central African Republic,107.0
+75,2004,Central African Republic,107.8
+76,2003,Central African Republic,108.5
+77,2002,Central African Republic,109.2
+78,2001,Central African Republic,109.8
+79,2000,Central African Republic,110.4
+80,2019,"Congo, Dem. Rep.",66.1
+81,2018,"Congo, Dem. Rep.",67.9
+82,2017,"Congo, Dem. Rep.",69.8
+83,2016,"Congo, Dem. Rep.",71.8
+84,2015,"Congo, Dem. Rep.",73.8
+85,2014,"Congo, Dem. Rep.",75.7
+86,2013,"Congo, Dem. Rep.",77.7
+87,2012,"Congo, Dem. Rep.",79.8
+88,2011,"Congo, Dem. Rep.",81.9
+89,2010,"Congo, Dem. Rep.",84.0
+90,2009,"Congo, Dem. Rep.",86.3
+91,2008,"Congo, Dem. Rep.",88.5
+92,2007,"Congo, Dem. Rep.",90.8
+93,2006,"Congo, Dem. Rep.",93.1
+94,2005,"Congo, Dem. Rep.",95.5
+95,2004,"Congo, Dem. Rep.",97.7
+96,2003,"Congo, Dem. Rep.",100.1
+97,2002,"Congo, Dem. Rep.",102.3
+98,2001,"Congo, Dem. Rep.",104.5
+99,2000,"Congo, Dem. Rep.",106.6
+100,2019,Eritrea,30.5
+101,2018,Eritrea,31.3
+102,2017,Eritrea,32.2
+103,2016,Eritrea,33.1
+104,2015,Eritrea,34.0
+105,2014,Eritrea,34.9
+106,2013,Eritrea,35.8
+107,2012,Eritrea,36.9
+108,2011,Eritrea,38.0
+109,2010,Eritrea,39.1
+110,2009,Eritrea,40.3
+111,2008,Eritrea,41.6
+112,2007,Eritrea,43.0
+113,2006,Eritrea,44.5
+114,2005,Eritrea,46.1
+115,2004,Eritrea,47.8
+116,2003,Eritrea,49.7
+117,2002,Eritrea,51.7
+118,2001,Eritrea,53.9
+119,2000,Eritrea,56.2
+120,2019,Ethiopia,36.5
+121,2018,Ethiopia,37.9
+122,2017,Ethiopia,39.5
+123,2016,Ethiopia,41.2
+124,2015,Ethiopia,43.1
+125,2014,Ethiopia,45.1
+126,2013,Ethiopia,47.2
+127,2012,Ethiopia,49.5
+128,2011,Ethiopia,51.9
+129,2010,Ethiopia,54.3
+130,2009,Ethiopia,56.9
+131,2008,Ethiopia,59.8
+132,2007,Ethiopia,62.8
+133,2006,Ethiopia,66.1
+134,2005,Ethiopia,69.5
+135,2004,Ethiopia,73.0
+136,2003,Ethiopia,76.6
+137,2002,Ethiopia,80.2
+138,2001,Ethiopia,83.6
+139,2000,Ethiopia,87.0
+140,2019,Guinea,63.8
+141,2018,Guinea,65.1
+142,2017,Guinea,66.3
+143,2016,Guinea,67.4
+144,2015,Guinea,68.7
+145,2014,Guinea,69.8
+146,2013,Guinea,70.8
+147,2012,Guinea,72.0
+148,2011,Guinea,73.3
+149,2010,Guinea,74.6
+150,2009,Guinea,76.1
+151,2008,Guinea,77.7
+152,2007,Guinea,79.6
+153,2006,Guinea,81.7
+154,2005,Guinea,84.0
+155,2004,Guinea,86.7
+156,2003,Guinea,89.6
+157,2002,Guinea,92.9
+158,2001,Guinea,96.3
+159,2000,Guinea,99.9
+160,2019,"Gambia, The",35.9
+161,2018,"Gambia, The",36.8
+162,2017,"Gambia, The",37.8
+163,2016,"Gambia, The",38.8
+164,2015,"Gambia, The",39.8
+165,2014,"Gambia, The",40.8
+166,2013,"Gambia, The",41.9
+167,2012,"Gambia, The",43.1
+168,2011,"Gambia, The",44.2
+169,2010,"Gambia, The",45.5
+170,2009,"Gambia, The",46.8
+171,2008,"Gambia, The",48.1
+172,2007,"Gambia, The",49.5
+173,2006,"Gambia, The",51.1
+174,2005,"Gambia, The",52.6
+175,2004,"Gambia, The",54.3
+176,2003,"Gambia, The",56.0
+177,2002,"Gambia, The",57.7
+178,2001,"Gambia, The",59.5
+179,2000,"Gambia, The",61.3
+180,2019,Guinea-Bissau,52.3
+181,2018,Guinea-Bissau,54.0
+182,2017,Guinea-Bissau,55.6
+183,2016,Guinea-Bissau,57.3
+184,2015,Guinea-Bissau,59.2
+185,2014,Guinea-Bissau,61.2
+186,2013,Guinea-Bissau,63.5
+187,2012,Guinea-Bissau,66.0
+188,2011,Guinea-Bissau,68.8
+189,2010,Guinea-Bissau,71.9
+190,2009,Guinea-Bissau,75.2
+191,2008,Guinea-Bissau,78.5
+192,2007,Guinea-Bissau,81.9
+193,2006,Guinea-Bissau,85.3
+194,2005,Guinea-Bissau,88.7
+195,2004,Guinea-Bissau,92.0
+196,2003,Guinea-Bissau,95.4
+197,2002,Guinea-Bissau,98.7
+198,2001,Guinea-Bissau,101.7
+199,2000,Guinea-Bissau,104.6
+200,2019,Liberia,62.2
+201,2018,Liberia,63.3
+202,2017,Liberia,64.3
+203,2016,Liberia,65.2
+204,2015,Liberia,66.1
+205,2014,Liberia,67.4
+206,2013,Liberia,68.0
+207,2012,Liberia,69.2
+208,2011,Liberia,70.7
+209,2010,Liberia,72.5
+210,2009,Liberia,74.7
+211,2008,Liberia,77.4
+212,2007,Liberia,80.9
+213,2006,Liberia,85.2
+214,2005,Liberia,90.4
+215,2004,Liberia,96.6
+216,2003,Liberia,103.6
+217,2002,Liberia,111.1
+218,2001,Liberia,118.8
+219,2000,Liberia,126.9
+220,2019,Madagascar,36.5
+221,2018,Madagascar,37.5
+222,2017,Madagascar,38.5
+223,2016,Madagascar,39.6
+224,2015,Madagascar,40.7
+225,2014,Madagascar,41.7
+226,2013,Madagascar,42.8
+227,2012,Madagascar,44.0
+228,2011,Madagascar,45.3
+229,2010,Madagascar,46.6
+230,2009,Madagascar,48.1
+231,2008,Madagascar,49.8
+232,2007,Madagascar,51.6
+233,2006,Madagascar,53.6
+234,2005,Madagascar,55.7
+235,2004,Madagascar,57.9
+236,2003,Madagascar,60.3
+237,2002,Madagascar,62.8
+238,2001,Madagascar,65.4
+239,2000,Madagascar,68.2
+240,2019,Mali,60.2
+241,2018,Mali,61.8
+242,2017,Mali,63.5
+243,2016,Mali,65.2
+244,2015,Mali,67.0
+245,2014,Mali,68.7
+246,2013,Mali,70.6
+247,2012,Mali,72.6
+248,2011,Mali,74.6
+249,2010,Mali,76.7
+250,2009,Mali,78.9
+251,2008,Mali,81.0
+252,2007,Mali,83.3
+253,2006,Mali,85.7
+254,2005,Mali,88.1
+255,2004,Mali,90.6
+256,2003,Mali,93.3
+257,2002,Mali,96.0
+258,2001,Mali,98.7
+259,2000,Mali,101.5
+260,2019,Mozambique,54.8
+261,2018,Mozambique,56.4
+262,2017,Mozambique,57.9
+263,2016,Mozambique,59.8
+264,2015,Mozambique,61.5
+265,2014,Mozambique,63.2
+266,2013,Mozambique,64.7
+267,2012,Mozambique,66.4
+268,2011,Mozambique,68.8
+269,2010,Mozambique,72.4
+270,2009,Mozambique,73.0
+271,2008,Mozambique,76.0
+272,2007,Mozambique,78.6
+273,2006,Mozambique,83.5
+274,2005,Mozambique,87.1
+275,2004,Mozambique,91.0
+276,2003,Mozambique,95.4
+277,2002,Mozambique,100.3
+278,2001,Mozambique,105.9
+279,2000,Mozambique,112.0
+280,2019,Malawi,30.9
+281,2018,Malawi,32.1
+282,2017,Malawi,33.5
+283,2016,Malawi,35.3
+284,2015,Malawi,37.3
+285,2014,Malawi,39.7
+286,2013,Malawi,42.7
+287,2012,Malawi,45.9
+288,2011,Malawi,49.5
+289,2010,Malawi,53.2
+290,2009,Malawi,55.3
+291,2008,Malawi,57.2
+292,2007,Malawi,59.9
+293,2006,Malawi,61.9
+294,2005,Malawi,65.1
+295,2004,Malawi,70.1
+296,2003,Malawi,76.6
+297,2002,Malawi,84.3
+298,2001,Malawi,92.4
+299,2000,Malawi,99.8
+300,2019,Niger,46.7
+301,2018,Niger,47.9
+302,2017,Niger,49.1
+303,2016,Niger,50.5
+304,2015,Niger,51.9
+305,2014,Niger,53.5
+306,2013,Niger,55.2
+307,2012,Niger,57.1
+308,2011,Niger,59.4
+309,2010,Niger,62.0
+310,2009,Niger,64.9
+311,2008,Niger,68.0
+312,2007,Niger,71.3
+313,2006,Niger,74.8
+314,2005,Niger,78.5
+315,2004,Niger,82.4
+316,2003,Niger,86.3
+317,2002,Niger,90.1
+318,2001,Niger,93.7
+319,2000,Niger,97.0
+320,2019,"Korea, Dem. People's Rep.",13.1
+321,2018,"Korea, Dem. People's Rep.",13.7
+322,2017,"Korea, Dem. People's Rep.",14.4
+323,2016,"Korea, Dem. People's Rep.",15.1
+324,2015,"Korea, Dem. People's Rep.",16.0
+325,2014,"Korea, Dem. People's Rep.",17.0
+326,2013,"Korea, Dem. People's Rep.",18.3
+327,2012,"Korea, Dem. People's Rep.",19.8
+328,2011,"Korea, Dem. People's Rep.",21.5
+329,2010,"Korea, Dem. People's Rep.",23.1
+330,2009,"Korea, Dem. People's Rep.",24.4
+331,2008,"Korea, Dem. People's Rep.",25.2
+332,2007,"Korea, Dem. People's Rep.",25.7
+333,2006,"Korea, Dem. People's Rep.",26.0
+334,2005,"Korea, Dem. People's Rep.",26.4
+335,2004,"Korea, Dem. People's Rep.",27.8
+336,2003,"Korea, Dem. People's Rep.",30.4
+337,2002,"Korea, Dem. People's Rep.",34.2
+338,2001,"Korea, Dem. People's Rep.",39.1
+339,2000,"Korea, Dem. People's Rep.",44.5
+340,2019,Rwanda,26.3
+341,2018,Rwanda,27.3
+342,2017,Rwanda,28.4
+343,2016,Rwanda,29.6
+344,2015,Rwanda,30.9
+345,2014,Rwanda,32.5
+346,2013,Rwanda,34.5
+347,2012,Rwanda,37.0
+348,2011,Rwanda,39.8
+349,2010,Rwanda,43.8
+350,2009,Rwanda,47.5
+351,2008,Rwanda,51.4
+352,2007,Rwanda,56.2
+353,2006,Rwanda,61.6
+354,2005,Rwanda,68.0
+355,2004,Rwanda,75.3
+356,2003,Rwanda,83.8
+357,2002,Rwanda,91.9
+358,2001,Rwanda,99.6
+359,2000,Rwanda,106.2
+360,2019,Sudan,41.0
+361,2018,Sudan,42.0
+362,2017,Sudan,43.1
+363,2016,Sudan,44.2
+364,2015,Sudan,45.2
+365,2014,Sudan,46.2
+366,2013,Sudan,47.3
+367,2012,Sudan,48.4
+368,2011,Sudan,49.5
+369,2010,Sudan,50.6
+370,2009,Sudan,51.8
+371,2008,Sudan,53.1
+372,2007,Sudan,54.4
+373,2006,Sudan,55.9
+374,2005,Sudan,57.5
+375,2004,Sudan,59.1
+376,2003,Sudan,60.9
+377,2002,Sudan,62.7
+378,2001,Sudan,64.6
+379,2000,Sudan,66.5
+380,2019,Sierra Leone,80.9
+381,2018,Sierra Leone,83.4
+382,2017,Sierra Leone,85.9
+383,2016,Sierra Leone,88.6
+384,2015,Sierra Leone,94.2
+385,2014,Sierra Leone,94.9
+386,2013,Sierra Leone,97.0
+387,2012,Sierra Leone,100.2
+388,2011,Sierra Leone,103.5
+389,2010,Sierra Leone,107.2
+390,2009,Sierra Leone,110.8
+391,2008,Sierra Leone,114.5
+392,2007,Sierra Leone,118.2
+393,2006,Sierra Leone,121.6
+394,2005,Sierra Leone,125.0
+395,2004,Sierra Leone,128.2
+396,2003,Sierra Leone,131.2
+397,2002,Sierra Leone,134.1
+398,2001,Sierra Leone,136.9
+399,2000,Sierra Leone,139.5
+400,2019,Somalia,74.0
+401,2018,Somalia,75.9
+402,2017,Somalia,78.2
+403,2016,Somalia,80.4
+404,2015,Somalia,82.8
+405,2014,Somalia,85.3
+406,2013,Somalia,87.9
+407,2012,Somalia,90.4
+408,2011,Somalia,93.0
+409,2010,Somalia,95.6
+410,2009,Somalia,98.1
+411,2008,Somalia,100.3
+412,2007,Somalia,102.1
+413,2006,Somalia,103.3
+414,2005,Somalia,103.5
+415,2004,Somalia,103.6
+416,2003,Somalia,103.6
+417,2002,Somalia,103.6
+418,2001,Somalia,103.6
+419,2000,Somalia,103.6
+420,2019,South Sudan,62.4
+421,2018,South Sudan,62.4
+422,2017,South Sudan,62.4
+423,2016,South Sudan,62.4
+424,2015,South Sudan,62.4
+425,2014,South Sudan,62.4
+426,2013,South Sudan,62.7
+427,2012,South Sudan,63.6
+428,2011,South Sudan,65.6
+429,2010,South Sudan,68.3
+430,2009,South Sudan,71.5
+431,2008,South Sudan,74.8
+432,2007,South Sudan,78.3
+433,2006,South Sudan,82.0
+434,2005,South Sudan,86.0
+435,2004,South Sudan,90.2
+436,2003,South Sudan,94.7
+437,2002,South Sudan,99.2
+438,2001,South Sudan,104.0
+439,2000,South Sudan,108.9
+440,2019,Syrian Arab Republic,17.9
+441,2018,Syrian Arab Republic,18.0
+442,2017,Syrian Arab Republic,18.1
+443,2016,Syrian Arab Republic,18.0
+444,2015,Syrian Arab Republic,17.8
+445,2014,Syrian Arab Republic,17.7
+446,2013,Syrian Arab Republic,17.4
+447,2012,Syrian Arab Republic,17.0
+448,2011,Syrian Arab Republic,16.4
+449,2010,Syrian Arab Republic,16.2
+450,2009,Syrian Arab Republic,16.2
+451,2008,Syrian Arab Republic,16.3
+452,2007,Syrian Arab Republic,16.4
+453,2006,Syrian Arab Republic,16.6
+454,2005,Syrian Arab Republic,16.9
+455,2004,Syrian Arab Republic,17.3
+456,2003,Syrian Arab Republic,17.7
+457,2002,Syrian Arab Republic,18.3
+458,2001,Syrian Arab Republic,18.9
+459,2000,Syrian Arab Republic,19.6
+460,2019,Chad,69.1
+461,2018,Chad,70.8
+462,2017,Chad,72.6
+463,2016,Chad,74.4
+464,2015,Chad,76.1
+465,2014,Chad,77.7
+466,2013,Chad,79.3
+467,2012,Chad,81.0
+468,2011,Chad,82.7
+469,2010,Chad,84.4
+470,2009,Chad,86.2
+471,2008,Chad,88.0
+472,2007,Chad,89.7
+473,2006,Chad,91.3
+474,2005,Chad,92.9
+475,2004,Chad,94.4
+476,2003,Chad,95.9
+477,2002,Chad,97.3
+478,2001,Chad,98.7
+479,2000,Chad,100.2
+480,2019,Togo,45.8
+481,2018,Togo,47.0
+482,2017,Togo,48.2
+483,2016,Togo,49.5
+484,2015,Togo,50.8
+485,2014,Togo,52.1
+486,2013,Togo,53.4
+487,2012,Togo,54.8
+488,2011,Togo,56.2
+489,2010,Togo,57.7
+490,2009,Togo,59.2
+491,2008,Togo,60.7
+492,2007,Togo,62.3
+493,2006,Togo,63.9
+494,2005,Togo,65.6
+495,2004,Togo,67.3
+496,2003,Togo,69.0
+497,2002,Togo,70.8
+498,2001,Togo,72.7
+499,2000,Togo,74.5
+500,2019,Uganda,33.4
+501,2018,Uganda,34.6
+502,2017,Uganda,36.0
+503,2016,Uganda,37.6
+504,2015,Uganda,39.2
+505,2014,Uganda,40.9
+506,2013,Uganda,42.9
+507,2012,Uganda,44.6
+508,2011,Uganda,47.6
+509,2010,Uganda,49.9
+510,2009,Uganda,52.5
+511,2008,Uganda,55.0
+512,2007,Uganda,58.4
+513,2006,Uganda,62.1
+514,2005,Uganda,66.0
+515,2004,Uganda,70.4
+516,2003,Uganda,75.0
+517,2002,Uganda,79.5
+518,2001,Uganda,83.6
+519,2000,Uganda,87.4
+520,2019,"Yemen, Rep.",43.6
+521,2018,"Yemen, Rep.",43.6
+522,2017,"Yemen, Rep.",43.3
+523,2016,"Yemen, Rep.",43.3
+524,2015,"Yemen, Rep.",43.4
+525,2014,"Yemen, Rep.",43.0
+526,2013,"Yemen, Rep.",43.0
+527,2012,"Yemen, Rep.",43.0
+528,2011,"Yemen, Rep.",43.1
+529,2010,"Yemen, Rep.",43.6
+530,2009,"Yemen, Rep.",44.9
+531,2008,"Yemen, Rep.",47.0
+532,2007,"Yemen, Rep.",49.3
+533,2006,"Yemen, Rep.",51.8
+534,2005,"Yemen, Rep.",54.3
+535,2004,"Yemen, Rep.",57.0
+536,2003,"Yemen, Rep.",59.7
+537,2002,"Yemen, Rep.",62.6
+538,2001,"Yemen, Rep.",65.7
+539,2000,"Yemen, Rep.",68.7
